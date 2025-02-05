@@ -17,3 +17,5 @@ cruft create https://github.com/A-Thakkar/cookiecutter-pypackage
 - [Mkdocs](https://www.mkdocs.org/): Writting your docs in markdown style
 - [Mkdocstrings](https://mkdocstrings.github.io/): Auto API doc generation and docstring template (vscode and its extension [autodocStrings](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) is required)
 - Host your documentation from [Git Pages](https://pages.github.com/) with zero-config
+
+- https://github.com/callowayproject/bump-my-version
