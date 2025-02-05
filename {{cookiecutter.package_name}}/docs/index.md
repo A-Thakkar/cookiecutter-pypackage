@@ -18,4 +18,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Reference
 
-::: {{cookiecutter.__python_package_name}}.mymodule
+::: {{cookiecutter.__python_package_name}}.my_module

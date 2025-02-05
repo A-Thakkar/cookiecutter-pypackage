@@ -14,7 +14,6 @@ cruft create https://github.com/A-Thakkar/cookiecutter-pypackage
 - https://github.com/fastapi/typer: Command line interfaces (CLI)
 - Continuouse Integration/Deployment by [github actions](https://github.com/features/actions), includes:
     - run ruff, mypy, and tests
-
-- Host your documentation from [Git Pages](https://pages.github.com/) with zero-config
 - [Mkdocs](https://www.mkdocs.org/): Writting your docs in markdown style
 - [Mkdocstrings](https://mkdocstrings.github.io/): Auto API doc generation and docstring template (vscode and its extension [autodocStrings](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) is required)
+- Host your documentation from [Git Pages](https://pages.github.com/) with zero-config
