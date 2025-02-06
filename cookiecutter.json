@@ -1,11 +1,11 @@
 {
-    "package_name": "",
+    "package_name": "some-package",
     "version": "0.0.1",
     "short_description": "Add your description here",
     "author": "Your Name",
     "author_email": "your.email@example.com",
+    "repo_owner": "github-id",
     "python_package_path": "{{ cookiecutter.package_name.lower().replace('-', '_') }}",
     "__python_package_name": "{{ cookiecutter.python_package_path.split('.')[0] if '.' in cookiecutter.python_package_path else  cookiecutter.python_package_path}}",
     "__package_path": "{{ cookiecutter.python_package_path.replace('.', '/') }}"
-  
 }
