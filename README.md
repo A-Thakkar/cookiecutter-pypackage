@@ -1,4 +1,4 @@
-#  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cookie-bite.svg" width="50" height="50" style="color: #FFD43B:">cookiecutter-pypackage
+# Cookiecutter for Python packages
 
 # Creating a new project
 1) Install `cruft`:
